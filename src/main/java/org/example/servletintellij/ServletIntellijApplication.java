@@ -8,7 +8,6 @@ public class ServletIntellijApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ServletIntellijApplication.class, args);
-        
     }
 
 }
